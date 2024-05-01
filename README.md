@@ -1,6 +1,6 @@
 # Animal Shelter System
 
-![Animal Shelter System]((https://i.pinimg.com/564x/b2/75/e8/b275e8cca8f99f4ebf32dc675e7268a2.jpg))
+![Animal Shelter System](https://i.pinimg.com/564x/b2/75/e8/b275e8cca8f99f4ebf32dc675e7268a2.jpg))
 
 Welcome to the Animal Shelter System! This Java application allows managing an animal shelter, including adding, sorting, treating, and vaccinating animals.
 
